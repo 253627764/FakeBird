@@ -6,7 +6,7 @@ FakeBird
 ##开发环境和配置
 
 + 开发环境  
-    Visual Studio 201  
+    Visual Studio 2013  
     Cocos2d-x 3.2  
 + 项目配置  
     引入libExtension和box2d库  
@@ -14,4 +14,6 @@ FakeBird
 
 ##总结
 
-    由于游戏规模比较小，采用面向过程式的开发。
+由于游戏规模比较小，采用面向过程式的开发。  
+但所有内容挤在一个类里，不方便进行扩展。  
+OOA和OOP是以后学习过程中需要锻炼的！
