@@ -5,12 +5,12 @@ FakeBird
 
 ##开发环境和配置
 
-+ 开发环境和版本  
-- Visual Studio 2013  
-- Cocos2d-x 3.2  
-+ 项目配置  
-- 引入libExtension和box2d库  
-- 将PhysicsSprite的默认物理引擎在预处理器中配置为box2d  
++ 开发环境和版本
+ - Visual Studio 2013
+ - Cocos2d-x 3.2
++ 项目配置
+ - 引入libExtension和box2d库
+ - 将PhysicsSprite的默认物理引擎在预处理器中配置为box2d
 
 ##总结
 
