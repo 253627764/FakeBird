@@ -11,6 +11,7 @@ FakeBird
 + 项目配置
  - 引入libExtension和box2d库
  - 将PhysicsSprite的默认物理引擎在预处理器中配置为box2d
++ 演示[链接](http://v.youku.com/v_show/id_XODE1ODk1NzI4.html)
 
 ##总结
 
